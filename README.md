@@ -12,7 +12,7 @@ Welcome to the official source code of my personal portfolio. This project is a 
 
 Built with a focus on **Offensive Security aesthetics**, this portfolio showcases my expertise and dedication to penetration testing and ethical hacking. It features a custom-built, interactive terminal interface and high-tech visual effects.
 
-**Live Demo:** [sashiprabhaktk.github.io/Cyber_with_KT/](https://sashiprabhaktk.github.io/Cyber_with_KT/)
+**Live Demo:** <a href="https://sashiprabhaktk.github.io/Cyber_with_KT/" target="_blank">sashiprabhaktk.github.io/Cyber_with_KT/</a>
 
 ---
 
