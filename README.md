@@ -21,13 +21,13 @@
 ---
 
 ## 📌 Table of Contents
-- [🚀 Overview](#-overview)
-- [✨ Key Features](#-key-features)
-- [� Tech Stack](#-tech-stack)
-- [📂 Featured Projects](#-featured-projects)
-- [⚙️ How to Run Locally](#-how-to-run-locally)
-- [📁 Folder Structure](#-folder-structure)
-- [🤝 Connect](#-connect-with-me)
+- [🚀 Overview](#overview)
+- [✨ Key Features](#key-features)
+- [💻 Tech Stack](#tech-stack)
+- [📂 Featured Projects](#featured-projects)
+- [⚙️ How to Run Locally](#how-to-run-locally)
+- [📁 Folder Structure](#folder-structure)
+- [🤝 Connect](#connect-with-me)
 
 ---
 
