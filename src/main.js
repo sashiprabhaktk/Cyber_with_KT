@@ -714,3 +714,35 @@ function initMissionStatus() {
 }
 
 initMissionStatus();
+
+// Scroll to Top Functionality
+function initScrollToTop() {
+    const scrollBtn = document.getElementById('scroll-to-top');
+    const progressBar = scrollBtn.querySelector('.scroll-progress');
+
+    if (!scrollBtn) return;
+
+    window.addEventListener('scroll', () => {
+        // Show button after scrolling 300px
+        if (window.scrollY > 300) {
+            scrollBtn.classList.add('visible');
+        } else {
+            scrollBtn.classList.remove('visible');
+        }
+
+        // Update progress bar
+        const scrollTotal = document.documentElement.scrollHeight - window.innerHeight;
+        const progress = (window.scrollY / scrollTotal) * 100;
+        progressBar.style.width = `${progress}%`;
+    });
+
+    scrollBtn.addEventListener('click', () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
+}
+
+initScrollToTop();
+
