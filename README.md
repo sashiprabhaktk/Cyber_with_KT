@@ -68,14 +68,14 @@ Built with a focus on modern UI/UX principles, it simulates a high-tech terminal
 
 ---
 
-## � Featured Projects
+## 📂 Featured Projects
 
-### 🛡️ [SecuriScanX](https://github.com/sashiprabhaktk/SecuriScanX)
+### 🛡️ <a href="https://github.com/sashiprabhaktk/SecuriScanX" target="_blank">SecuriScanX</a>
 *A Chrome extension for real-time vulnerability detection.*
 - **Focus:** SQLi, XSS, and CMDi detection.
 - **Key Feature:** Smart result tags and automated Excel reporting for rapid security assessment.
 
-### 🐚 [SwiftShell](https://github.com/sashiprabhaktk/SwiftShell)
+### 🐚 <a href="https://github.com/sashiprabhaktk/SwiftShell" target="_blank">SwiftShell</a>
 *All-in-one Linux security automation tool.*
 - **Focus:** Rapid terminal environment setup.
 - **Key Feature:** Automates user creation and configures modern Zsh/Powerlevel10k environments for security researchers.
@@ -105,7 +105,7 @@ Get the development environment up and running in minutes:
 
 ---
 
-## � Folder Structure
+## 📁 Folder Structure
 
 ```text
 ├── index.html          # Main architecture
