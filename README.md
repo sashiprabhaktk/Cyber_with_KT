@@ -74,6 +74,11 @@ Built with a focus on modern UI/UX principles, it simulates a high-tech terminal
 <a id="featured-projects"></a>
 ## 📂 Featured Projects
 
+### ⚔️ [Cyber_with_KT](https://github.com/sashiprabhaktk/Cyber_with_KT)
+*Professional cybersecurity-themed immersive portfolio.*
+- **Focus:** Modern UI/UX with Offensive Security aesthetics.
+- **Key Feature:** Dynamic terminal simulations, orbital capabilities radar, and interactive vulnerability metrics.
+
 ### 🛡️ [SecuriScanX](https://github.com/sashiprabhaktk/SecuriScanX)
 *A Chrome extension for real-time vulnerability detection.*
 - **Focus:** SQLi, XSS, and CMDi detection.
