@@ -432,7 +432,7 @@ if (viewLinks.length > 0) {
     viewLinks.forEach(link => {
         link.addEventListener('click', (e) => {
             e.preventDefault();
-            openModal(link.getAttribute('href'));
+            openModal(encodeURI(link.getAttribute('href')));
         });
     });
 }
