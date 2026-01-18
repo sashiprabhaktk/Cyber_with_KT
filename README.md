@@ -7,27 +7,27 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/SashiprabhaKTK" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe"></a>
-  <a href="https://app.hackthebox.com/profile/sashiprabhaktk" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-Active-green?style=for-the-badge&logo=hackthebox" alt="HackTheBox"></a>
-  <a href="https://linkedin.com/in/sashiprabhaktk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/SashiprabhaKTK"><img src="https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe"></a>
+  <a href="https://app.hackthebox.com/profile/sashiprabhaktk"><img src="https://img.shields.io/badge/HackTheBox-Active-green?style=for-the-badge&logo=hackthebox" alt="HackTheBox"></a>
+  <a href="https://linkedin.com/in/sashiprabhaktk"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
 
 ## 🌐 Live Access
 **Explore the interactive experience here:** 
-### 👉 <a href="https://sashiprabhaktk.github.io/Cyber_with_KT/" target="_blank">sashiprabhaktk.github.io/Cyber_with_KT/</a>
+### 👉 [sashiprabhaktk.github.io/Cyber_with_KT/](https://sashiprabhaktk.github.io/Cyber_with_KT/)
 
 ---
 
 ## 📌 Table of Contents
 - [🚀 Overview](#-overview)
 - [✨ Key Features](#-key-features)
-- [🛠️ Tech Stack](#️-tech-stack)
+- [� Tech Stack](#-tech-stack)
 - [📂 Featured Projects](#-featured-projects)
-- [⚙️ How to Run Locally](#️-how-to-run-locally)
+- [⚙️ How to Run Locally](#-how-to-run-locally)
 - [📁 Folder Structure](#-folder-structure)
-- [🤝 Connect](#-connect)
+- [🤝 Connect](#-connect-with-me)
 
 ---
 
@@ -70,12 +70,12 @@ Built with a focus on modern UI/UX principles, it simulates a high-tech terminal
 
 ## 📂 Featured Projects
 
-### 🛡️ <a href="https://github.com/sashiprabhaktk/SecuriScanX" target="_blank">SecuriScanX</a>
+### 🛡️ [SecuriScanX](https://github.com/sashiprabhaktk/SecuriScanX)
 *A Chrome extension for real-time vulnerability detection.*
 - **Focus:** SQLi, XSS, and CMDi detection.
 - **Key Feature:** Smart result tags and automated Excel reporting for rapid security assessment.
 
-### 🐚 <a href="https://github.com/sashiprabhaktk/SwiftShell" target="_blank">SwiftShell</a>
+### 🐚 [SwiftShell](https://github.com/sashiprabhaktk/SwiftShell)
 *All-in-one Linux security automation tool.*
 - **Focus:** Rapid terminal environment setup.
 - **Key Feature:** Automates user creation and configures modern Zsh/Powerlevel10k environments for security researchers.
@@ -124,10 +124,10 @@ Get the development environment up and running in minutes:
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/sashiprabhaktk" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://github.com/sashiprabhaktk" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://youtube.com/@CyberWithKT" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<a href="https://tryhackme.com/p/SashiprabhaKTK" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-%23121011.svg?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+<a href="https://linkedin.com/in/sashiprabhaktk"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://github.com/sashiprabhaktk"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://youtube.com/@CyberWithKT"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://tryhackme.com/p/SashiprabhaKTK"><img src="https://img.shields.io/badge/TryHackMe-%23121011.svg?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 </p>
 
 ---
