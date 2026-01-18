@@ -6,13 +6,13 @@ Welcome to the official source code of my personal portfolio. This project is a 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-green?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/sashiprabhaktk)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github)](https://github.com/sashiprabhaktk)
 
-![Portfolio Preview](Resources/Portfolio%20Home%20Page.png) 
+![Portfolio Preview](public/Resources/Portfolio_Home_Page.png) 
 
 ## 🚀 Overview
 
 Built with a focus on **Offensive Security aesthetics**, this portfolio showcases my expertise and dedication to penetration testing and ethical hacking. It features a custom-built, interactive terminal interface and high-tech visual effects.
 
-**Live Demo:** [sashiprabhaktk.github.io](https://sashiprabhaktk.github.io) (Update this after deploying)
+**Live Demo:** [sashiprabhaktk.github.io/Cyber_with_KT/](https://sashiprabhaktk.github.io/Cyber_with_KT/)
 
 ---
 
@@ -37,6 +37,7 @@ Built with a focus on **Offensive Security aesthetics**, this portfolio showcase
 
 ## 💻 Tech Stack
 
+*   **Vite** (Build Tool)
 *   **HTML5 & Semantic Elements** (SEO Optimized)
 *   **Vanilla CSS3** (Custom Animations, Glassmorphism, Responsive Grid/Flexbox)
 *   **Modern JavaScript** (ES6+, Intersection Observer, Canvas API)
@@ -45,7 +46,7 @@ Built with a focus on **Offensive Security aesthetics**, this portfolio showcase
 
 ---
 
-## �️ Skills At A Glance
+## 🛠️ Skills At A Glance
 
 *   **Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Gobuster, SQLmap
 *   **Operating Systems:** Kali Linux, Parrot OS, Ubuntu, Windows Server
@@ -54,15 +55,27 @@ Built with a focus on **Offensive Security aesthetics**, this portfolio showcase
 
 ---
 
-## �📥 How to Run Locally
+## 📥 How to Run Locally
 
-You don't need any complex setup or servers. Just follow these simple steps:
+This project uses **Vite** for a fast development experience. Follow these steps:
 
-1.  **Download the Code:**
-    *   Click the green **Code** button at the top and select **Download ZIP**.
-    *   Alternatively, clone it via terminal: `git clone https://github.com/sashiprabhaktk/Cyber-Portfolio.git`
-2.  **Extract:** If you downloaded the ZIP, extract it to a folder.
-3.  **Open:** Simply double-click the `index.html` file to view it in your browser!
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/sashiprabhaktk/Cyber_with_KT.git
+    ```
+2.  **Navigate to the project folder:**
+    ```bash
+    cd Cyber_with_KT
+    ```
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+4.  **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+5.  **Open your browser:** Vite will provide a local URL (e.g., `http://localhost:5173`).
 
 ---
 
@@ -70,14 +83,14 @@ You don't need any complex setup or servers. Just follow these simple steps:
 
 ```text
 ├── index.html          # Main entry point
-├── README.md           # This guide
+├── package.json        # Build scripts and dependencies
+├── vite.config.js      # Vite configuration
+├── public/
+│   └── Resources/      # Static assets (Certificates, Badges, Images)
 ├── src/                
-│   ├── style.css       # All custom cybersecurity styling
-│   └── main.js        # Interactive logic & animations
-├── Resources/          
-│   ├── Certificates/   # My official certification PDFs
-│   ├── Badges/         # THM, HTB, and Credly badges
-│   └── ...            # Other assets (Icons, Images)
+│   ├── main.js         # Interactive logic & animations
+│   └── style.css       # All custom cybersecurity styling
+└── README.md           # This guide
 ```
 
 ---
