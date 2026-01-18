@@ -1,126 +1,142 @@
-# 🛡️ Cyber with KT | Professional Cybersecurity Portfolio
+# <p align="center">🛡️ Cyber with KT | Professional Cybersecurity Portfolio </p>
 
-Welcome to the official source code of my personal portfolio. This project is a highly interactive, cybersecurity-themed web application designed to showcase my skills, certifications, and offensive security operations.
+<p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/sashiprabhaktk/Cyber_with_KT/deploy.yml?branch=main&label=Deployment&style=for-the-badge" alt="Deployment Status">
+  <img src="https://img.shields.io/github/license/sashiprabhaktk/Cyber_with_KT?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/stars/sashiprabhaktk/Cyber_with_KT?style=for-the-badge" alt="Stars">
+</p>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/SashiprabhaKTK)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-green?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/sashiprabhaktk)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github)](https://github.com/sashiprabhaktk)
+<p align="center">
+  <a href="https://tryhackme.com/p/SashiprabhaKTK" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe"></a>
+  <a href="https://app.hackthebox.com/profile/sashiprabhaktk" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-Active-green?style=for-the-badge&logo=hackthebox" alt="HackTheBox"></a>
+  <a href="https://linkedin.com/in/sashiprabhaktk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
-![Portfolio Preview](public/Resources/Portfolio_Home_Page.png) 
+---
+
+## 🌐 Live Access
+**Explore the interactive experience here:** 
+### 👉 <a href="https://sashiprabhaktk.github.io/Cyber_with_KT/" target="_blank">sashiprabhaktk.github.io/Cyber_with_KT/</a>
+
+---
+
+## 📌 Table of Contents
+- [🚀 Overview](#-overview)
+- [✨ Key Features](#-key-features)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📂 Featured Projects](#-featured-projects)
+- [⚙️ How to Run Locally](#️-how-to-run-locally)
+- [📁 Folder Structure](#-folder-structure)
+- [🤝 Connect](#-connect)
+
+---
 
 ## 🚀 Overview
 
-Built with a focus on **Offensive Security aesthetics**, this portfolio showcases my expertise and dedication to penetration testing and ethical hacking. It features a custom-built, interactive terminal interface and high-tech visual effects.
+Welcome to my official professional portfolio. This is not just a static webpage; it's a **cybersecurity-themed immersive experience** designed to showcase my journey, technical prowess, and passion for **Offensive Security**. 
 
-**Live Demo:** <a href="https://sashiprabhaktk.github.io/Cyber_with_KT/" target="_blank">sashiprabhaktk.github.io/Cyber_with_KT/</a>
+Built with a focus on modern UI/UX principles, it simulates a high-tech terminal interface reflecting the tools and environments used by security professionals.
+
+![Portfolio Preview](public/Resources/Portfolio_Home_Page.png)
 
 ---
 
 ## ✨ Key Features
 
-### ⚔️ Offensive Security Theme
-*   **Glitch Text Effects:** Cyber-style glitch animations on headers and my nickname.
-*   **Text Scramble (Deciphering):** Hover over any section title to see it "decrypt" in real-time.
-*   **Neural Network Particles:** A dynamic, interactive background in the Projects section that reacts to your mouse movements.
+### ⚔️ Offensive Security Aesthetics
+*   **Encrypted Text Decryption:** Hover animations that simulate real-time data deciphering on section titles.
+*   **Terminal Simulation:** An interactive "WhoAmI" terminal prompt and a live-typing mission status bar.
+*   **Neural Background:** Interactive particle canvas reacting to mouse movements, representing distributed network nodes.
 
-### 📡 Interactive Elements
-*   **Live Mission Status:** A terminal-style mission bar showing my current focus, certifications, and learning progress.
-*   **Capabilities Radar:** An interactive radar display showing my core security toolset.
-*   **Resume Viewer:** View my professional resume directly within the site through a high-tech modal window.
-
-### 🛠️ Functionality
-*   **Modern Contact System:** A fully working contact form powered by Web3Forms.
-*   **Click-to-Copy:** Professional feedback system when copying email addresses.
-*   **Animated Stats:** A live counter showcasing 30+ certifications and solving 60+ PicoCTF challenges.
+### 📡 Interactive UX
+*   **Capabilities Radar:** A dynamic orbital radar displaying my core security toolset.
+*   **Encapsulated Resume Viewer:** view my professional resume without leaving the site using a high-tech modal interface.
+*   **Animated Statistics:** Real-time counters showing progress across THM, HTB, and professional certifications.
 
 ---
 
 ## 💻 Tech Stack
 
-*   **Vite** (Build Tool)
-*   **HTML5 & Semantic Elements** (SEO Optimized)
-*   **Vanilla CSS3** (Custom Animations, Glassmorphism, Responsive Grid/Flexbox)
-*   **Modern JavaScript** (ES6+, Intersection Observer, Canvas API)
-*   **Font Awesome** (Industry standard icons)
-*   **Web3Forms** (Backend-less form handling)
+| Technology | Purpose |
+| :--- | :--- |
+| **Vite** | Modern, ultra-fast build tool and development server |
+| **HTML5 / CSS3** | Semantic structure and advanced vanilla animations |
+| **JavaScript (ES6+)** | Core logic, interactivity, and Terminal simulations |
+| **Canvas API** | Dynamic background and complex geometric animations |
+| **Web3Forms** | Secure, backend-less contact form handling |
+| **Font Awesome** | Industrial standard icon set for technical tools |
 
 ---
 
-## 🛠️ Skills At A Glance
+## � Featured Projects
 
-*   **Tools:** Nmap, Metasploit, Burp Suite, Wireshark, Gobuster, SQLmap
-*   **Operating Systems:** Kali Linux, Parrot OS, Ubuntu, Windows Server
-*   **Languages:** Bash, Python (Automation), HTML/CSS/JS
-*   **Specialties:** Network Pentesting, Web Application Security, Privilege Escalation
+### 🛡️ [SecuriScanX](https://github.com/sashiprabhaktk/SecuriScanX)
+*A Chrome extension for real-time vulnerability detection.*
+- **Focus:** SQLi, XSS, and CMDi detection.
+- **Key Feature:** Smart result tags and automated Excel reporting for rapid security assessment.
+
+### 🐚 [SwiftShell](https://github.com/sashiprabhaktk/SwiftShell)
+*All-in-one Linux security automation tool.*
+- **Focus:** Rapid terminal environment setup.
+- **Key Feature:** Automates user creation and configures modern Zsh/Powerlevel10k environments for security researchers.
 
 ---
 
-## 📥 How to Run Locally
+## ⚙️ How to Run Locally
 
-This project uses **Vite** for a fast development experience. Follow these steps:
+Get the development environment up and running in minutes:
 
-1.  **Clone the repository:**
+1.  **Clone the Repository**
     ```bash
     git clone https://github.com/sashiprabhaktk/Cyber_with_KT.git
-    ```
-2.  **Navigate to the project folder:**
-    ```bash
     cd Cyber_with_KT
     ```
-3.  **Install dependencies:**
+
+2.  **Install Dependencies**
     ```bash
     npm install
     ```
-4.  **Start the development server:**
+
+3.  **Launch Development Server**
     ```bash
     npm run dev
     ```
-5.  **Open your browser:** Vite will provide a local URL (e.g., `http://localhost:5173`).
+4.  **Access:** Open `http://localhost:5173` in your browser.
 
 ---
 
-## 📂 Folder Structure
+## � Folder Structure
 
 ```text
-├── index.html          # Main entry point
-├── package.json        # Build scripts and dependencies
-├── vite.config.js      # Vite configuration
+├── index.html          # Main architecture
+├── package.json        # Manifest & Commands
+├── vite.config.js      # Build configuration
 ├── public/
-│   └── Resources/      # Static assets (Certificates, Badges, Images)
+│   └── Resources/      # Compiled Assets (Certs, Badges, Media)
 ├── src/                
-│   ├── main.js         # Interactive logic & animations
-│   └── style.css       # All custom cybersecurity styling
-└── README.md           # This guide
+│   ├── main.js         # Interactive Logic & Animation Engine
+│   └── style.css       # The "Cyber" Visual System
+└── README.md           # Documentation
 ```
 
 ---
 
 ## 🤝 Connect with Me
 
-*   **LinkedIn:** [linkedin.com/in/sashiprabhaktk](https://linkedin.com/in/sashiprabhaktk)
-*   **GitHub:** [github.com/sashiprabhaktk](https://github.com/sashiprabhaktk)
-*   **TryHackMe:** [CyberWithKT Profile](https://tryhackme.com/p/SashiprabhaKTK)
+<p align="left">
+<a href="https://linkedin.com/in/sashiprabhaktk" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://github.com/sashiprabhaktk" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://youtube.com/@CyberWithKT" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://tryhackme.com/p/SashiprabhaKTK" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-%23121011.svg?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+</p>
 
 ---
 
 ## 📜 License
-
-This project is for demonstration purposes. Feel free to explore the code for inspiration, but please do not copy the personal identity elements for your own portfolio. 
-
----
+This project is for educational and demonstrative purposes. Identity elements and personal data are private property. You are welcome to explore the code for inspiration.
 
 ## ⚠️ Legal Disclaimer
+Information provided is for **educational and ethical purposes only**. Developing security tools requires responsibility. Always obtain proper authorization before testing any system.
 
-All information and tools provided here are for **educational and ethical purposes only**. I am not responsible for any misuse of the information provided. Engaging in unauthorized hacking activities is illegal. Always obtain proper authorization before testing any system.
-
----
-
-## 🗺️ Future Roadmap
-
-- [ ] Automated integration with HTB and THM APIs for live stats
-- [ ] Blog section for security write-ups and research
-- [ ] Dark/Light mode toggle (Stealth/Standard mode)
-- [ ] Advanced terminal-based navigation system
-
-**[ STATUS: EVOLVING ]** // Deployed with ⚔️ by Sashiprabha KTK (KT)
+**[ STATUS: MISSION ACTIVE ]** // Built with ⚔️ by Sashiprabha KTK (KT)
 
