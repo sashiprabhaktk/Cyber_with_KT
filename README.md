@@ -27,10 +27,11 @@
 - [📂 Featured Projects](#featured-projects)
 - [⚙️ How to Run Locally](#how-to-run-locally)
 - [📁 Folder Structure](#folder-structure)
-- [🤝 Connect](#connect-with-me)
+- [🤝 Connect](#connect)
 
 ---
 
+<a id="overview"></a>
 ## 🚀 Overview
 
 Welcome to my official professional portfolio. This is not just a static webpage; it's a **cybersecurity-themed immersive experience** designed to showcase my journey, technical prowess, and passion for **Offensive Security**. 
@@ -41,6 +42,7 @@ Built with a focus on modern UI/UX principles, it simulates a high-tech terminal
 
 ---
 
+<a id="key-features"></a>
 ## ✨ Key Features
 
 ### ⚔️ Offensive Security Aesthetics
@@ -55,6 +57,7 @@ Built with a focus on modern UI/UX principles, it simulates a high-tech terminal
 
 ---
 
+<a id="tech-stack"></a>
 ## 💻 Tech Stack
 
 | Technology | Purpose |
@@ -68,6 +71,7 @@ Built with a focus on modern UI/UX principles, it simulates a high-tech terminal
 
 ---
 
+<a id="featured-projects"></a>
 ## 📂 Featured Projects
 
 ### 🛡️ [SecuriScanX](https://github.com/sashiprabhaktk/SecuriScanX)
@@ -82,6 +86,7 @@ Built with a focus on modern UI/UX principles, it simulates a high-tech terminal
 
 ---
 
+<a id="how-to-run-locally"></a>
 ## ⚙️ How to Run Locally
 
 Get the development environment up and running in minutes:
@@ -105,6 +110,7 @@ Get the development environment up and running in minutes:
 
 ---
 
+<a id="folder-structure"></a>
 ## 📁 Folder Structure
 
 ```text
@@ -121,6 +127,7 @@ Get the development environment up and running in minutes:
 
 ---
 
+<a id="connect"></a>
 ## 🤝 Connect with Me
 
 <p align="left">
