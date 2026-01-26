@@ -3,16 +3,39 @@ const cursor = document.querySelector('.cursor');
 const follower = document.querySelector('.cursor-follower');
 const glow = document.querySelector('.mouse-glow');
 
+let mouseX = 0;
+let mouseY = 0;
+let cursorX = 0;
+let cursorY = 0;
+let followerX = 0;
+let followerY = 0;
+
 document.addEventListener('mousemove', (e) => {
-    const x = e.clientX;
-    const y = e.clientY;
-
-    cursor.style.transform = `translate(${x}px, ${y}px)`;
-    follower.style.transform = `translate(${x - 10}px, ${y - 10}px)`;
-
-    document.documentElement.style.setProperty('--x', `${x}px`);
-    document.documentElement.style.setProperty('--y', `${y}px`);
+    mouseX = e.clientX;
+    mouseY = e.clientY;
 });
+
+function updateMouseElements() {
+    cursorX = mouseX;
+    cursorY = mouseY;
+
+    // Follower now moves exactly with the cursor
+    followerX = mouseX;
+    followerY = mouseY;
+
+    // Center the 10px cursor and 30px follower precisely on the mouse tip
+    cursor.style.transform = `translate3d(${cursorX - 5}px, ${cursorY - 5}px, 0)`;
+    follower.style.transform = `translate3d(${followerX - 15}px, ${followerY - 15}px, 0)`;
+
+    // Update glow variables only when mouse moves significantly (optional optimization)
+    // For now, update every frame but use translate3d where possible
+    document.documentElement.style.setProperty('--x', `${mouseX}px`);
+    document.documentElement.style.setProperty('--y', `${mouseY}px`);
+
+    requestAnimationFrame(updateMouseElements);
+}
+
+requestAnimationFrame(updateMouseElements);
 
 // Typing Effect
 function typeWriter(element, text, speed = 100) {
