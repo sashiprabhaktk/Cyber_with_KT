@@ -481,7 +481,7 @@ section {
   position: relative;
   overflow: hidden;
   display: inline-block;
-  min-width: 250px;
+  min-width: 360px;
 }
 
 .typing-cursor {
@@ -512,6 +512,7 @@ section {
   font-weight: 700;
   font-family: 'Space Mono', monospace;
   font-size: 0.9rem;
+  white-space: nowrap;
 }
 
 .terminal-prompt:hover .whoami-overlay {
